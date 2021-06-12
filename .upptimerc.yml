@@ -19,12 +19,10 @@ status-website:
   publish: true
   baseUrl: /upptime-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime Monitoring
+  name: NexGenT Website Status
   introTitle: Monitoring NexGenT Websites using Upptime
   introMessage: This is a tentative page to monitor nexgent websites
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
