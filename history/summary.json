@@ -4,18 +4,20 @@
     "url": "https://nexgent.com",
     "icon": "https://favicons.githubusercontent.com/nexgent.com",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1099,
-    "timeDay": 1099,
-    "timeWeek": 1099,
-    "timeMonth": 1099,
-    "timeYear": 1099,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 876,
+    "timeDay": 876,
+    "timeWeek": 876,
+    "timeMonth": 876,
+    "timeYear": 876,
+    "dailyMinutesDown": {
+      "2021-06-12": 0
+    }
   },
   {
     "name": "Career Wiki",
