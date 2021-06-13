@@ -7,6 +7,8 @@ sites:
     url: https://nexgent.com
   - name: Career Wiki
     url: https://career.nexgent.com
+  - name: Zero to Engineer
+    url: https://zerotoengineer.com
 
 assignees: # Users to assign downtime issues (optional)
   - robnexgent
