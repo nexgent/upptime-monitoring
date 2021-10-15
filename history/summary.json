@@ -58,19 +58,19 @@
     "url": "https://zerotoengineer.com",
     "icon": "https://favicons.githubusercontent.com/zerotoengineer.com",
     "slug": "zero-to-engineer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 199,
-    "timeWeek": 225,
-    "timeMonth": 234,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 233,
+    "timeDay": 289,
+    "timeWeek": 245,
+    "timeMonth": 238,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2021-10-15": 0
+      "2021-10-15": 11
     }
   }
 ]
