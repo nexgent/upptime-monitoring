@@ -5,25 +5,23 @@
     "icon": "https://favicons.githubusercontent.com/nexgent.com",
     "slug": "main-website",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "99.45%",
-    "time": 699,
-    "timeDay": 163,
-    "timeWeek": 235,
-    "timeMonth": 268,
-    "timeYear": 699,
+    "uptimeYear": "99.46%",
+    "time": 696,
+    "timeDay": 194,
+    "timeWeek": 222,
+    "timeMonth": 256,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2021-11-02": 479,
       "2021-09-10": 630,
       "2021-07-15": 20,
       "2021-06-22": 15,
       "2021-06-21": 16,
-      "2021-06-17": 15,
-      "2021-06-14": 14,
-      "2021-06-12": 15
+      "2021-06-17": 15
     }
   },
   {
@@ -37,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1439,
-    "timeDay": 1568,
-    "timeWeek": 1508,
-    "timeMonth": 1494,
-    "timeYear": 1439,
+    "time": 1441,
+    "timeDay": 1763,
+    "timeWeek": 1557,
+    "timeMonth": 1511,
+    "timeYear": 1441,
     "dailyMinutesDown": {
       "2021-09-21": 28
     }
@@ -58,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 206,
-    "timeWeek": 232,
-    "timeMonth": 242,
+    "timeDay": 202,
+    "timeWeek": 219,
+    "timeMonth": 237,
     "timeYear": 234,
     "dailyMinutesDown": {}
   }
