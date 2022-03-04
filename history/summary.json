@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/nexgent.com",
     "slug": "main-website",
     "status": "up",
-    "uptime": "92.13%",
+    "uptime": "92.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.13%",
+    "uptimeYear": "92.15%",
     "time": 570,
     "timeDay": 152,
     "timeWeek": 380,
@@ -50,9 +50,9 @@
     "url": "https://career.nexgent.com",
     "icon": "https://favicons.githubusercontent.com/career.nexgent.com",
     "slug": "career-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -62,6 +62,7 @@
     "timeMonth": 1217,
     "timeYear": 1418,
     "dailyMinutesDown": {
+      "2022-03-04": 0,
       "2021-12-15": 33,
       "2021-09-21": 28
     }
