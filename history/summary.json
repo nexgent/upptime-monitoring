@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/nexgent.com",
     "slug": "main-website",
     "status": "up",
-    "uptime": "93.62%",
+    "uptime": "93.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.62%",
+    "uptimeYear": "93.63%",
     "time": 533,
     "timeDay": 366,
     "timeWeek": 377,
@@ -77,9 +77,9 @@
     "url": "https://zerotoengineer.com",
     "icon": "https://favicons.githubusercontent.com/zerotoengineer.com",
     "slug": "zero-to-engineer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -88,6 +88,8 @@
     "timeWeek": 284,
     "timeMonth": 248,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-09": 0
+    }
   }
 ]
