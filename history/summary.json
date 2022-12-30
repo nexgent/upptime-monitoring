@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexgent.com.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "94.95%",
-    "uptimeDay": "12.03%",
-    "uptimeWeek": "87.43%",
-    "uptimeMonth": "97.11%",
+    "uptime": "94.78%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "73.16%",
+    "uptimeMonth": "93.82%",
     "uptimeYear": "93.87%",
-    "time": 340,
+    "time": 341,
     "timeDay": 0,
-    "timeWeek": 321,
-    "timeMonth": 311,
+    "timeWeek": 355,
+    "timeMonth": 310,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2022-12-29": 20,
+      "2022-12-30": 19,
+      "2022-12-29": 1440,
       "2022-12-28": 1247,
       "2022-09-29": 284,
       "2022-09-28": 1440,
@@ -42,8 +43,7 @@
       "2022-01-03": 1440,
       "2022-01-02": 1440,
       "2022-01-01": 1440,
-      "2021-12-31": 1440,
-      "2021-12-30": 1440
+      "2021-12-31": 1440
     }
   },
   {
@@ -52,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/career.nexgent.com.ico",
     "slug": "career-wiki",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1336,
-    "timeDay": 1192,
-    "timeWeek": 1211,
-    "timeMonth": 1200,
-    "timeYear": 1289,
+    "time": 1335,
+    "timeDay": 1180,
+    "timeWeek": 1195,
+    "timeMonth": 1201,
+    "timeYear": 1288,
     "dailyMinutesDown": {
       "2022-03-04": 224
     }
@@ -78,10 +78,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 262,
-    "timeDay": 435,
-    "timeWeek": 323,
-    "timeMonth": 298,
-    "timeYear": 270,
+    "timeDay": 315,
+    "timeWeek": 336,
+    "timeMonth": 299,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2022-06-09": 507
     }
