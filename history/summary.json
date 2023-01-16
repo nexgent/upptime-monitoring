@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexgent.com.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "94.11%",
+    "uptime": "94.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "78.19%",
     "uptimeYear": "96.32%",
-    "time": 345,
-    "timeDay": 146,
-    "timeWeek": 257,
-    "timeMonth": 311,
+    "time": 344,
+    "timeDay": 328,
+    "timeWeek": 280,
+    "timeMonth": 303,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2023-01-03": 1108,
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1329,
-    "timeDay": 1236,
-    "timeWeek": 1395,
-    "timeMonth": 1223,
-    "timeYear": 1281,
+    "timeDay": 1249,
+    "timeWeek": 1392,
+    "timeMonth": 1230,
+    "timeYear": 1280,
     "dailyMinutesDown": {
       "2022-03-04": 224
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 264,
-    "timeDay": 246,
-    "timeWeek": 287,
-    "timeMonth": 301,
+    "timeDay": 293,
+    "timeWeek": 293,
+    "timeMonth": 300,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2022-06-09": 507
