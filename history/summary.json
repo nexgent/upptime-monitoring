@@ -64,9 +64,9 @@
     "slug": "zero-to-engineer",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 270,
     "timeDay": 362,
@@ -74,7 +74,6 @@
     "timeMonth": 309,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2023-02-23": 12,
       "2022-06-09": 507
     }
   }
