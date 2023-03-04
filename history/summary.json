@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexgent.com.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "94.55%",
+    "uptime": "94.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.32%",
-    "time": 730,
-    "timeDay": 4704,
-    "timeWeek": 6461,
-    "timeMonth": 4919,
-    "timeYear": 926,
+    "time": 734,
+    "timeDay": 2549,
+    "timeWeek": 5904,
+    "timeMonth": 4851,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2023-01-03": 1108,
       "2023-01-02": 1440,
@@ -48,14 +48,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1313,
-    "timeDay": 1311,
-    "timeWeek": 1228,
-    "timeMonth": 1317,
+    "time": 1312,
+    "timeDay": 1100,
+    "timeWeek": 1224,
+    "timeMonth": 1310,
     "timeYear": 1279,
-    "dailyMinutesDown": {
-      "2022-03-04": 224
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zero to Engineer",
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 271,
-    "timeDay": 228,
-    "timeWeek": 307,
-    "timeMonth": 314,
+    "timeDay": 422,
+    "timeWeek": 315,
+    "timeMonth": 321,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2022-06-09": 507
