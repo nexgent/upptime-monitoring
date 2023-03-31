@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexgent.com.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "94.77%",
+    "uptime": "94.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "96.75%",
-    "time": 1062,
-    "timeDay": 5312,
-    "timeWeek": 3584,
-    "timeMonth": 4115,
-    "timeYear": 1221,
+    "time": 1068,
+    "timeDay": 3774,
+    "timeWeek": 3788,
+    "timeMonth": 4105,
+    "timeYear": 1229,
     "dailyMinutesDown": {
       "2023-03-11": 20,
       "2023-01-03": 1108,
@@ -31,8 +31,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 162,
       "2022-06-26": 358,
-      "2022-04-22": 96,
-      "2022-03-31": 861
+      "2022-04-22": 96
     }
   },
   {
@@ -46,11 +45,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1299,
-    "timeDay": 1273,
-    "timeWeek": 1251,
+    "time": 1300,
+    "timeDay": 1279,
+    "timeWeek": 1254,
     "timeMonth": 1265,
-    "timeYear": 1287,
+    "timeYear": 1288,
     "dailyMinutesDown": {}
   },
   {
@@ -64,10 +63,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 273,
-    "timeDay": 303,
-    "timeWeek": 265,
-    "timeMonth": 289,
+    "time": 274,
+    "timeDay": 325,
+    "timeWeek": 268,
+    "timeMonth": 290,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2022-06-09": 507
