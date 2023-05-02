@@ -1,7 +1,7 @@
 url: https://nexgent.com
-status: up
-code: 200
-responseTime: 3835
-lastUpdated: 2023-05-01T23:03:05.609Z
+status: down
+code: 500
+responseTime: 20139
+lastUpdated: 2023-05-02T14:45:24.119Z
 startTime: Sat Jun 12 2021 04:42:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
