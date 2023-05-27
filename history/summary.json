@@ -42,19 +42,19 @@
     "url": "https://career.nexgent.com",
     "icon": "https://icons.duckduckgo.com/ip3/career.nexgent.com.ico",
     "slug": "career-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1278,
-    "timeDay": 2474,
-    "timeWeek": 1543,
-    "timeMonth": 1308,
-    "timeYear": 1299,
+    "time": 1285,
+    "timeDay": 3220,
+    "timeWeek": 1895,
+    "timeMonth": 1411,
+    "timeYear": 1309,
     "dailyMinutesDown": {
-      "2023-05-27": 0
+      "2023-05-27": 12
     }
   },
   {
