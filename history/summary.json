@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexgent.com.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "95.36%",
+    "uptime": "95.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -41,18 +41,20 @@
     "url": "https://career.nexgent.com",
     "icon": "https://icons.duckduckgo.com/ip3/career.nexgent.com.ico",
     "slug": "career-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1569,
+    "time": 1571,
     "timeDay": 2077,
     "timeWeek": 5325,
     "timeMonth": 4925,
     "timeYear": 1706,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-05": 0
+    }
   },
   {
     "name": "Zero to Engineer",
