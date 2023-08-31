@@ -42,18 +42,20 @@
     "url": "https://career.nexgent.com",
     "icon": "https://icons.duckduckgo.com/ip3/career.nexgent.com.ico",
     "slug": "career-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2190,
-    "timeDay": 4674,
-    "timeWeek": 4476,
-    "timeMonth": 5640,
-    "timeYear": 2382,
-    "dailyMinutesDown": {}
+    "time": 2191,
+    "timeDay": 3739,
+    "timeWeek": 4259,
+    "timeMonth": 5550,
+    "timeYear": 2380,
+    "dailyMinutesDown": {
+      "2023-08-31": 0
+    }
   },
   {
     "name": "Zero to Engineer",
