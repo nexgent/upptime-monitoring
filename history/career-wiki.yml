@@ -1,7 +1,7 @@
 url: https://career.nexgent.com
-status: up
-code: 200
-responseTime: 4355
-lastUpdated: 2023-08-30T23:02:51.724Z
+status: down
+code: 500
+responseTime: 1871
+lastUpdated: 2023-08-31T01:15:21.848Z
 startTime: 2021-06-12T04:42:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
