@@ -57,19 +57,19 @@
     "url": "https://zerotoengineer.com",
     "icon": "https://icons.duckduckgo.com/ip3/zerotoengineer.com.ico",
     "slug": "zero-to-engineer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "97.63%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.65%",
     "uptimeYear": "99.80%",
-    "time": 313,
+    "time": 312,
     "timeDay": 1767,
     "timeWeek": 936,
     "timeMonth": 484,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-09-29": 12,
+      "2023-09-29": 0,
       "2023-09-18": 1028
     }
   }
