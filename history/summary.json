@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.00%",
     "time": 2856,
-    "timeDay": 2989,
+    "timeDay": 2883,
     "timeWeek": 3926,
-    "timeMonth": 5039,
+    "timeMonth": 4483,
     "timeYear": 3757,
     "dailyMinutesDown": {
       "2023-09-01": 19,
@@ -44,9 +44,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 2241,
-    "timeDay": 2574,
+    "timeDay": 2087,
     "timeWeek": 3346,
-    "timeMonth": 4644,
+    "timeMonth": 4635,
     "timeYear": 2687,
     "dailyMinutesDown": {
       "2023-08-31": 22
@@ -57,18 +57,19 @@
     "url": "https://zerotoengineer.com",
     "icon": "https://icons.duckduckgo.com/ip3/zerotoengineer.com.ico",
     "slug": "zero-to-engineer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.65%",
     "uptimeYear": "99.80%",
-    "time": 312,
-    "timeDay": 2105,
+    "time": 313,
+    "timeDay": 380,
     "timeWeek": 891,
     "timeMonth": 481,
     "timeYear": 331,
     "dailyMinutesDown": {
+      "2023-09-30": 0,
       "2023-09-18": 1028
     }
   }
