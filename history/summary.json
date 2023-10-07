@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexgent.com.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "95.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -13,7 +13,7 @@
     "time": 2891,
     "timeDay": 5589,
     "timeWeek": 3077,
-    "timeMonth": 4075,
+    "timeMonth": 4000,
     "timeYear": 3803,
     "dailyMinutesDown": {
       "2023-09-01": 19,
@@ -57,9 +57,9 @@
     "url": "https://zerotoengineer.com",
     "icon": "https://icons.duckduckgo.com/ip3/zerotoengineer.com.ico",
     "slug": "zero-to-engineer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.65%",
     "uptimeYear": "99.80%",
@@ -69,6 +69,7 @@
     "timeMonth": 712,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2023-10-07": 0,
       "2023-09-18": 1028
     }
   }
