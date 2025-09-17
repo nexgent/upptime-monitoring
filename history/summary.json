@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexgent.com.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "83.65%",
+    "uptime": "83.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.28%",
-    "time": 4547,
+    "uptimeYear": "40.01%",
+    "time": 4545,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4587,
+    "timeYear": 4593,
     "dailyMinutesDown": {
-      "2025-09-16": 26,
+      "2025-09-17": 26,
+      "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -235,8 +236,7 @@
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
-      "2024-09-23": 1409,
-      "2024-09-17": 17
+      "2024-09-23": 1409
     }
   },
   {
@@ -245,18 +245,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/career.nexgent.com.ico",
     "slug": "career-wiki",
     "status": "down",
-    "uptime": "86.89%",
+    "uptime": "86.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.58%",
-    "time": 4476,
+    "uptimeYear": "44.31%",
+    "time": 4478,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4718,
+    "timeYear": 4734,
     "dailyMinutesDown": {
-      "2025-09-16": 26,
+      "2025-09-17": 26,
+      "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -459,8 +460,7 @@
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
-      "2025-02-25": 362,
-      "2024-09-17": 16
+      "2025-02-25": 362
     }
   },
   {
@@ -475,8 +475,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 258,
-    "timeDay": 226,
-    "timeWeek": 294,
+    "timeDay": 236,
+    "timeWeek": 277,
     "timeMonth": 272,
     "timeYear": 260,
     "dailyMinutesDown": {
