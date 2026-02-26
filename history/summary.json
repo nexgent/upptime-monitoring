@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexgent.com.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "75.77%",
+    "uptime": "75.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.22%",
-    "time": 4382,
+    "uptimeYear": "0.03%",
+    "time": 4383,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 323,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2026-02-25": 41,
+      "2026-02-26": 36,
+      "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -379,8 +380,7 @@
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
-      "2025-02-27": 1440,
-      "2025-02-26": 1440
+      "2025-02-27": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/career.nexgent.com.ico",
     "slug": "career-wiki",
     "status": "down",
-    "uptime": "78.70%",
+    "uptime": "78.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.20%",
-    "time": 4329,
+    "uptimeYear": "0.00%",
+    "time": 4323,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-25": 41,
+      "2026-02-26": 36,
+      "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -763,8 +764,7 @@
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
-      "2025-02-27": 1440,
-      "2025-02-26": 1440
+      "2025-02-27": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 297,
-    "timeDay": 331,
-    "timeWeek": 240,
-    "timeMonth": 248,
-    "timeYear": 312,
+    "time": 296,
+    "timeDay": 177,
+    "timeWeek": 227,
+    "timeMonth": 245,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2025-06-24": 17,
       "2025-05-28": 55
