@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexgent.com.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "73.09%",
+    "uptime": "73.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2026-04-29": 55,
+      "2026-04-30": 55,
+      "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
@@ -379,8 +380,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
-      "2025-05-01": 1440,
-      "2025-04-30": 1440
+      "2025-05-01": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/career.nexgent.com.ico",
     "slug": "career-wiki",
     "status": "down",
-    "uptime": "75.92%",
+    "uptime": "75.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4081,
+    "time": 4074,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-29": 55,
+      "2026-04-30": 55,
+      "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
@@ -763,8 +764,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
-      "2025-05-01": 1440,
-      "2025-04-30": 1440
+      "2025-05-01": 1440
     }
   },
   {
@@ -779,10 +779,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 297,
-    "timeDay": 241,
-    "timeWeek": 236,
-    "timeMonth": 246,
-    "timeYear": 309,
+    "timeDay": 320,
+    "timeWeek": 242,
+    "timeMonth": 247,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2026-03-31": 27,
       "2025-06-24": 17,
