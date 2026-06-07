@@ -6,9 +6,9 @@
     "slug": "main-website",
     "status": "down",
     "uptime": "71.94%",
-    "uptimeDay": "86.65%",
-    "uptimeWeek": "85.34%",
-    "uptimeMonth": "24.77%",
+    "uptimeDay": "83.85%",
+    "uptimeWeek": "84.94%",
+    "uptimeMonth": "24.76%",
     "uptimeYear": "2.25%",
     "time": 3365,
     "timeDay": 1874,
@@ -378,7 +378,7 @@
       "2026-06-04": 343,
       "2026-06-05": 278,
       "2026-06-06": 163,
-      "2026-06-07": 139
+      "2026-06-07": 179
     }
   },
   {
@@ -386,13 +386,13 @@
     "url": "https://career.nexgent.com",
     "icon": "https://icons.duckduckgo.com/ip3/career.nexgent.com.ico",
     "slug": "career-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "74.75%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "98.62%",
     "uptimeWeek": "96.62%",
-    "uptimeMonth": "27.36%",
-    "uptimeYear": "2.44%",
-    "time": 4436,
+    "uptimeMonth": "27.45%",
+    "uptimeYear": "2.45%",
+    "time": 4381,
     "timeDay": 5521,
     "timeWeek": 4487,
     "timeMonth": 4300,
@@ -758,7 +758,8 @@
       "2026-06-02": 183,
       "2026-06-04": 66,
       "2026-06-05": 21,
-      "2026-06-06": 20
+      "2026-06-06": 20,
+      "2026-06-07": 0
     }
   },
   {
