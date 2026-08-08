@@ -4,17 +4,17 @@
     "url": "https://nexgent.com",
     "icon": "https://icons.duckduckgo.com/ip3/nexgent.com.ico",
     "slug": "main-website",
-    "status": "down",
+    "status": "up",
     "uptime": "72.83%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "18.99%",
-    "time": 1029,
-    "timeDay": 288,
+    "time": 1024,
+    "timeDay": 292,
     "timeWeek": 304,
     "timeMonth": 338,
-    "timeYear": 1032,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2026-02-09": 1334,
       "2026-02-08": 1440,
@@ -329,7 +329,8 @@
       "2026-07-01": 64,
       "2026-08-04": 108,
       "2026-08-05": 107,
-      "2026-08-07": 24
+      "2026-08-07": 24,
+      "2026-08-08": 16
     }
   },
   {
@@ -342,7 +343,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.36%",
+    "uptimeYear": "19.37%",
     "time": 1661,
     "timeDay": 938,
     "timeWeek": 834,
